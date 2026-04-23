@@ -1,150 +1,226 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=FULL+STACK+DEVELOPER;MERN+STACK+ENGINEER;SAAS+ARCHITECT;MOBILE+APP+DEVELOPER;AUTOMATION+SPECIALIST" alt="Typing SVG" />
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Vighnraj
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;SaaS+Architect;Mobile+App+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vighnraj)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vighnraj.dev)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vighnraj@example.com)
 
 </div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **TECH ARSENAL**
+## 👨‍💻 About Me
+
+```typescript
+class Developer {
+    name: string = "Vighnraj";
+    role: string = "Full Stack Developer";
+    location: string = "India 🇮🇳";
+    
+    skills: {
+        frontend: string[] = ["React", "React Native", "Flutter", "Next.js"];
+        backend: string[] = ["Node.js", "Express", "MongoDB", "MySQL"];
+        mobile: string[] = ["React Native", "Flutter"];
+        tools: string[] = ["Git", "Docker", "AWS", "Firebase"];
+    };
+    
+    currentFocus: string[] = [
+        "Building SaaS Products 🚀",
+        "Trading Applications 📈",
+        "Automation Tools 🤖",
+        "Scalable Architectures 🏗️"
+    ];
+    
+    isDrinkingCoffee(): boolean {
+        return true; // Always ☕
+    }
+}
+```
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🎯 Core Stack
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📱 Mobile Development
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🗄️ Database & Backend
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### ⚡ Tools & Others
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **ABOUT ME**
+## 🚀 What I Build
 
-```javascript
-const vighnraj = {
-    role: "Full Stack Developer",
-    currentFocus: "Building SaaS & Automation Tools",
-    expertise: ["MERN Stack", "Mobile Development", "System Design"],
-    workingOn: ["Trading Apps 📈", "SaaS Platforms 💼", "Automation Bots 🤖"],
-    learning: ["Microservices", "AI Integration", "Web3"],
-    askMeAbout: ["Web Dev", "Mobile Apps", "Backend Architecture", "SaaS"],
-    funFact: "I turn coffee into code ☕ → 💻"
-};
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
----
-
-## 🚀 **WHAT I BUILD**
-
-<div align="center">
-
-| 💻 **WEB APPS** | 📱 **MOBILE APPS** | 🤖 **AUTOMATION** |
-|:---:|:---:|:---:|
-| SaaS Dashboards | Flutter Apps | Instagram Bots |
-| E-commerce Sites | React Native Apps | LinkedIn Tools |
-| Admin Panels | Cross-Platform | AI Assistants |
-| Real-time Apps | Trading Apps | Web Scrapers |
-
-</div>
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+<b>Web Applications</b><br>
+<sub>SaaS Platforms | Dashboards | E-commerce</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
+<b>Mobile Apps</b><br>
+<sub>React Native | Flutter | Cross-Platform</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+<b>Automation</b><br>
+<sub>Bots | Scrapers | AI Tools</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 **GITHUB STATS**
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=vighnraj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vighnraj&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6347&currStreakLabel=00FF41" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnraj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vighnraj&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" width="98%" />
-
-</div>
-
----
-
-## 🏆 **GITHUB TROPHIES**
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=vighnraj&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-## 🔥 **CURRENT PROJECTS**
+## 💼 Featured Projects
 
 <div align="center">
 
 ```ascii
-┌─────────────────────────────────────────────────────┐
-│  🎯 Trading Platform     [████████░░] 80%          │
-│  💼 SaaS Dashboard       [██████████] 100%         │
-│  🤖 Automation Suite     [██████░░░░] 60%          │
-│  📱 Mobile App Clone     [████████░░] 75%          │
-└─────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║  📈 Trading Platform        [████████████] Production     ║
+║  💼 SaaS Dashboard          [████████████] Live           ║
+║  🛒 E-commerce Solution     [██████████░░] Development    ║
+║  🤖 Automation Suite        [████████░░░░] Beta          ║
+║  📱 Mobile App (Flutter)    [██████████░░] Testing       ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 💡 **RANDOM DEV QUOTE**
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vighnraj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnraj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vighnraj&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vighnraj&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="95%"/>
+</div>
+
+---
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=vighnraj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
 ---
 
-## 🐍 **CONTRIBUTION SNAKE**
+## 🎯 Current Focus
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🔨 Building
+- SaaS Products
+- Trading Applications
+- Mobile Apps
+- Automation Tools
+
+</td>
+<td align="center" width="50%">
+
+### 📚 Learning
+- Microservices Architecture
+- System Design
+- AI/ML Integration
+- Web3 Technologies
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Development Philosophy
 
 <div align="center">
 
-![snake gif](https://github.com/vighnraj/vighnraj/blob/output/github-contribution-grid-snake.svg)
+```javascript
+const codeQuality = {
+    clean: "Always write clean, maintainable code",
+    scalable: "Build for scale from day one",
+    tested: "Test early, test often",
+    documented: "Code is read more than written",
+    agile: "Iterate fast, ship faster"
+};
+```
 
 </div>
 
 ---
 
-## 📫 **CONNECT WITH ME**
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://github.com/vighnraj/vighnraj/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vighnraj)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vighnraj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://vighnraj.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vighnraj@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vighnraj.dev)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vighnraj@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vighnraj)
 
 </div>
 
@@ -152,12 +228,20 @@ const vighnraj = {
 
 <div align="center">
 
-### 💻 **"Code is like humor. When you have to explain it, it's bad."** 
+### 💬 Random Dev Quote
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%">
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 📊 Profile Views
 
 ![Visitor Count](https://profile-counter.glitch.me/vighnraj/count.svg)
 
-**⭐ From [vighnraj](https://github.com/vighnraj)**
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+**✨ "Building the future, one commit at a time" ✨**
 
 </div>
