@@ -87,7 +87,7 @@ class Developer {
 <sub>SaaS Platforms | Dashboards | E-commerce</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br>
 <b>Mobile Apps</b><br>
 <sub>React Native | Flutter | Cross-Platform</sub>
 </td>
@@ -107,7 +107,6 @@ class Developer {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vighnraj-gurjar-130a46266/?skipRedirect=true)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vighnrajmukati430@gmail.com)
-
 
 </div>
 
