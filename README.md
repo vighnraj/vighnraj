@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;SaaS+Architect;Mobile+App+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vighnraj)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vighnraj.dev)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vighnraj@example.com)
@@ -42,10 +40,6 @@ class Developer {
 }
 ```
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -57,8 +51,6 @@ class Developer {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend Development
@@ -67,7 +59,6 @@ class Developer {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Mobile Development
@@ -80,7 +71,6 @@ class Developer {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -110,108 +100,6 @@ class Developer {
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-```ascii
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║  📈 Trading Platform        [████████████] Production     ║
-║  💼 SaaS Dashboard          [████████████] Live           ║
-║  🛒 E-commerce Solution     [██████████░░] Development    ║
-║  🤖 Automation Suite        [████████░░░░] Beta          ║
-║  📱 Mobile App (Flutter)    [██████████░░] Testing       ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vighnraj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnraj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vighnraj&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vighnraj&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="95%"/>
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=vighnraj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🔨 Building
-- SaaS Products
-- Trading Applications
-- Mobile Apps
-- Automation Tools
-
-</td>
-<td align="center" width="50%">
-
-### 📚 Learning
-- Microservices Architecture
-- System Design
-- AI/ML Integration
-- Web3 Technologies
-
-</td>
-</tr>
-</table>
-
----
-
-## 💡 Development Philosophy
-
-<div align="center">
-
-```javascript
-const codeQuality = {
-    clean: "Always write clean, maintainable code",
-    scalable: "Build for scale from day one",
-    tested: "Test early, test often",
-    documented: "Code is read more than written",
-    agile: "Iterate fast, ship faster"
-};
-```
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://github.com/vighnraj/vighnraj/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -227,18 +115,6 @@ const codeQuality = {
 ---
 
 <div align="center">
-
-### 💬 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 📊 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/vighnraj/count.svg)
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
