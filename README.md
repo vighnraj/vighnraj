@@ -30,7 +30,6 @@ class Developer {
     
     currentFocus: string[] = [
         "Building SaaS Products 🚀",
-        "Trading Applications 📈",
         "Automation Tools 🤖",
         "Scalable Architectures 🏗️"
     ];
